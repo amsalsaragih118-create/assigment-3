@@ -1,4 +1,4 @@
-*Programming Assignment 3: Simple STL*
+***Programming Assignment 3: Simple STL***
 **Deskripsi Program**
 
 **Program ini dibuat untuk menentukan jenis suatu segitiga berdasarkan tiga titik yang diinput oleh pengguna. Jenis segitiga yang dapat diidentifikasi yaitu:**
